@@ -1,0 +1,6 @@
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\bin\Debug\GPA.exe.config
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\bin\Debug\GPA.exe
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\bin\Debug\GPA.pdb
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\obj\Debug\GPA.csprojResolveAssemblyReference.cache
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\obj\Debug\GPA.exe
+c:\users\mike thomas\documents\visual studio 2017\Projects\GPA\GPA\obj\Debug\GPA.pdb
